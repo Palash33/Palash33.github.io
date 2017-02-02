@@ -1,7 +1,6 @@
 ...
-title: test post
-layout: page
+title: test3
+layout: post
 date: 2017-02-02 22:04
 blog: true
-author: jamesfoster
 ...
